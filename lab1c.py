@@ -2,4 +2,4 @@
 
 name = 'Isaac'
 age = 72
-print(f'{name} is {age} years old!')
+print(name +' is ' + str(age) + ' years old!')
